@@ -98,12 +98,19 @@ public class Main {
     }
 
     //Änderungen vornehmen um neu abzuspeichern
-    public static int makePositive(int num) {
-        if (num < 0) {
-            return -num; // Gibt den positiven Wert der Zahl zurück
-        } else {
-            return num; // Gibt die Zahl unverändert zurück, wenn sie bereits positiv ist
-        }
-    }
+    //public static int makePositive(int num) {
+       // if (num < 0) {
+           // return -num; // Gibt den positiven Wert der Zahl zurück
+        //} else {
+         //   return num; // Gibt die Zahl unverändert zurück, wenn sie bereits positiv ist
+       // }
+    //}
+
+    //Änderungen
+
+
+
 
 }
+
+
